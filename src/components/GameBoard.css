@@ -1,4 +1,7 @@
 .gameBoard {
-  max-width: 30em;
+  background-color: #394264;
+  border-radius: 0.25em;
+  max-width: 25em;
   margin: auto;
+  overflow: hidden;
 }
