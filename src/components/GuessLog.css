@@ -1,5 +1,5 @@
 .GuessLog {
-  background-color: aqua;
+  background-color: #2AA8AB;;
   padding: .5em;
 }
 
@@ -15,6 +15,6 @@
 .GuessLog ul li {
   padding: .1em;
   margin: .1em;
-  background: green;
+  background: #1A4E95
 }
 
