@@ -1,11 +1,14 @@
 import React from 'react';
+import Hinter from './Hinter';
+import './GameBoard.css';
+import GuessLog from './GuessLog';
 
 export default function GameBoard (props) {
   return (
-    <section>
-      {/* Hinter */}
+    <section className="gameBoard">
+      <Hinter />
       {/* Guess Form */}
-      {/* Guess Log */}
+      <GuessLog />
     </section>
   );
 }
